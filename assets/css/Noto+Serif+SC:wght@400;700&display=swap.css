@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/notoserifsc/v8/H4chBXePl9DZ0Xe7gG9cyOj7oqA.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/notoserifsc/v8/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzSzY.otf) format('opentype');
+}
